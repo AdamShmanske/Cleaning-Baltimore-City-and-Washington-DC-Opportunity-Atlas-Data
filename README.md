@@ -65,3 +65,7 @@ These two data sources measure the percentage of adults who stay within a specif
 #### Baltimore
 ![alt text](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/BaltimoreStayImage.png)
 
+## Final answer?
+
+## Project Directions
+A step by step description of the code needed to complete this project can be found [here](https://colab.research.google.com/drive/1eCiJZyu8E-9K_7lrFo50r6eRZxm5udtH#scrollTo=xb1ebKmGSEZH).  This allows replication of this project so that others can clean these same data sources and perform their own analysis on social mobility in these two cities.
