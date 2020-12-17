@@ -11,7 +11,7 @@ In Baltimore, a poverty striken city with high homicide rates, social mobility i
 In Washington DC a similar situation exists. [DC children in the lowest 25th percentile of incomes](https://www.dcfpi.org/all/economic-mobility-dc-lower-neighboring-counties/) have a substantially higher chance of having lower incomes as adults.  When poverty is systematic and lasting, we know that our nations ideals of social mobility and equal opportunity is failing us.
 
 ## Business Question
-How
+What can Baltimore and Washington, DC open data sources tell us about social mobility?
 
 ## Data Source
 [Opportunity Atlas](https://www.opportunityatlas.org/): A free interactive tool that contains publicly available information on different social metrics.
@@ -34,5 +34,6 @@ Three different data sources were analyzed within tract ID numbers for each Balt
 ## Initial Data Cleaning Using Python
 - The 6 different data sources were initially imported into google Colab using the code
 pd.read_csv(urlofrawdata)
--
+- Ensuring that the data sources were inputted properly is essential.  This uses the code df_(specificdataframe).head().
+- 
 
