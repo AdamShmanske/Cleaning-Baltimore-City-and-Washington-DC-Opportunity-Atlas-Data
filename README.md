@@ -32,4 +32,6 @@ Three different data sources were analyzed within tract ID numbers for each Balt
 [DC](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/income%20stay%20DC.csv)
 
 ## Initial Data Cleaning Using Python
+The 6 different data sources were initially imported into google Colab using the code
+pd.read_csv(urlofrawdata)
 
