@@ -65,7 +65,8 @@ These two data sources measure the percentage of adults who stay within a specif
 #### Baltimore
 ![alt text](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/BaltimoreStayImage.png)
 
-## Final answer?
+## Final Answer
+While this project does not perform in depth data analysis, it successfully provides a framework for further analysis to occur. Often, the initial data cleaning is a difficult proces. However, in order to analyze the data to generate insights and create visualizations, the data must be cleaned into a workeable format. This project describes the first step in a large data analysis project, and it is crucial to meticulously clean this data to make sure that everything is transferred and sorted properly.
 
 ## Project Directions
 A step by step description of the code needed to complete this project can be found [here](https://colab.research.google.com/drive/1eCiJZyu8E-9K_7lrFo50r6eRZxm5udtH#scrollTo=xb1ebKmGSEZH).  This allows replication of this project so that others can clean these same data sources and perform their own analysis on social mobility in these two cities.
