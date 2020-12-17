@@ -40,10 +40,10 @@ pd.read_csv(urlofrawdata)
 - Finally, data merging was performed in which the 6 different data sources were combined in order to perform further analysis. This merging provides more in-depth coding, and all of the code used in this project can be found by clicking [this link.](https://colab.research.google.com/drive/1eCiJZyu8E-9K_7lrFo50r6eRZxm5udtH#scrollTo=jvpJPi71sAf7)
 
 ## Images of Cleaned Data
-Below is 6 images of the cleaned data. This data now contains exclusively datapoints from within Baltimore City and Washington DC. Additionally, the columns within the data have been renamed and clarified. These 6 data sources are now optimally set up for further data analysis.
+Below is 6 images of the cleaned data. This data now contains exclusively datapoints from within Baltimore City and Washington DC. Additionally, the columns within the data have been renamed and clarified. These 6 data sources are now optimally set up for further data analysis. For each data source, an example of the first 5 data points are displayed, and a description of the data including the mean, median, and standard deviation is shown below.
 
 ### Income among adults who stayed in the same tract
-
+These two data sources measure the median income among adults who stay within the same tract. This data only measures an adult who was born in a specific tract within Baltimore City or Washington DC, and remained there for their entire lives.
 #### Washington DC
 ![alt text](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/IncomeStayDCImage.png)
 #### Baltimore
@@ -51,7 +51,7 @@ Below is 6 images of the cleaned data. This data now contains exclusively datapo
 
 
 ### Median income in tract
-
+These two data sources measure the median income among adults within a specific tract. This provides a good indicator of the relative wealth status of the residents in a specific area of each city.
 #### Washington DC
 ![alt text](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/DCAvgIncomeImage.png)
 #### Baltimore
@@ -59,8 +59,8 @@ Below is 6 images of the cleaned data. This data now contains exclusively datapo
 
 
 ### Percentage of adults who stay in the same tract
-
-#### Washignton DC
+These two data sources measure the percentage of adults who stay within a specific tract. This provides an indicator of how many people grow up and move out of their neighborhood. This allows us to see the mobility rates among people within different neighborhoods.
+#### Washington DC
 ![alt text](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/DCStayImage.png)
 #### Baltimore
 ![alt text](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/BaltimoreStayImage.png)
