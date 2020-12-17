@@ -2,7 +2,7 @@
 Cleaning Baltimore City and Washington DC publicly available data in order to track social mobility.
 
 ## Background
-A core pillar of American culture is the concept of the [American Dream](https://www.investopedia.com/terms/a/american-dream.asp), an belief that "anyone, regardless of where they were born or what class they were born into, can attain their own version of success in a society where upward mobility is possible for everyone. The American Dream is achieved through sacrifice, risk-taking, and hard work, rather than by chance."  While the concept of the American dream is supported by our countries laws and politicians, the harsh reality of the situation which many poor Americans face is a stark contrast.
+A core pillar of American culture is the concept of the [American Dream](https://www.investopedia.com/terms/a/american-dream.asp), a belief that "anyone, regardless of where they were born or what class they were born into, can attain their own version of success in a society where upward mobility is possible for everyone. The American Dream is achieved through sacrifice, risk-taking, and hard work, rather than by chance."  While the concept of the American dream is supported by our countries laws and politicians, the harsh reality of the situation which many poor Americans face is a stark contrast.
 
 This project seeks to provide an in depth statistical analysis of social mobility in two major cities, Baltimore, MD and Washington DC.
 
