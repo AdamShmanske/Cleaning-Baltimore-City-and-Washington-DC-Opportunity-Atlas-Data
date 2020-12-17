@@ -42,16 +42,26 @@ pd.read_csv(urlofrawdata)
 ## Images of Cleaned Data
 Below is 6 images of the cleaned data. This data now contains exclusively datapoints from within Baltimore City and Washington DC. Additionally, the columns within the data have been renamed and clarified. These 6 data sources are now optimally set up for further data analysis.
 
-#### Income among adults who stayed in the same tract - DC
+### Income among adults who stayed in the same tract
+
+#### Washington DC
 ![alt text](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/IncomeStayDCImage.png)
-#### Income among adults who stayed in the same tract - Baltimore
+#### Baltimore
 ![alt text](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/IncomeStayBaltimoreImage.png)
-#### Median income in tract - DC
+
+
+### Median income in tract
+
+#### Washington DC
 ![alt text](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/DCAvgIncomeImage.png)
-#### Median income in tract - Baltimore
+#### Baltimore
 ![alt text](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/BaltimoreAvgIncomeImage.png)
-#### Percentage of adults who stay in the same tract - DC
+
+
+### Percentage of adults who stay in the same tract
+
+#### Washignton DC
 ![alt text](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/DCStayImage.png)
-#### Percentage of adults who stay in the same tract - Baltimore
+#### Baltimore
 ![alt text](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/BaltimoreStayImage.png)
 
