@@ -16,7 +16,7 @@ What can Baltimore and Washington, DC open data sources tell us about social mob
 ## Data Source
 [Opportunity Atlas](https://www.opportunityatlas.org/): A free interactive tool that contains publicly available information on different social metrics.
 
-Three different data sources were analyzed within tract ID numbers for each Baltimore City and Washignton DC: median household income, percentage of adults who stayed in same tract, and median income among adults who stayed in same tract.
+Three different data sources were analyzed within tract ID numbers for each Baltimore City and Washington DC: median household income, percentage of adults who stayed in same tract, and median income among adults who stayed in same tract.
 
 #### Household Income
 [Baltimore](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/Household%20Income%20Baltimore.csv)
