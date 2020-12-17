@@ -20,10 +20,13 @@ Three different data sources were analyzed within tract ID numbers for each Balt
 
 #### Household Income
 [Baltimore](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/Household%20Income%20Baltimore.csv)
+
 [DC](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/Household%20Income%20DC.csv)
 #### Percentage of adults who stayed in same tract
-[Baltimore]((https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/%25%20Same%20Tract%20Baltimore.csv)
+[Baltimore](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/%25%20Same%20Tract%20Baltimore.csv)
+
 [DC](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/%25%20Same%20Tract%20Baltimore.csv)
 #### Median income among adults who stayed in same tract
 [Baltimore](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/income%20stay%20Baltimore.csv)
+
 [DC](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/income%20stay%20DC.csv)
