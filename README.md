@@ -1,4 +1,4 @@
-# Cleaning-Opportunity-Atlas-Data
+# Cleaning-Baltimore-City-and-Washington-DC-Opportunity-Atlas-Data
 Cleaning Baltimore City and Washington DC publicly available data in order to track social mobility.
 
 ## Background
