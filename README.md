@@ -35,5 +35,7 @@ Three different data sources were analyzed within tract ID numbers for each Balt
 - The 6 different data sources were initially imported into google Colab using the code
 pd.read_csv(urlofrawdata)
 - Ensuring that the data sources were inputted properly is essential.  This uses the code df_(specificdataframe).head().
-- Both the Baltimore City and the Washington, DC datasets contained datapoints that were neighboring towns and not within the city themselves. To clean this data to only include data containing Baltimore city the code df_baltimorecitydata = df_baltimorecitydata[df_baltimorecitydata["Name"].str.contains("Baltimore")]
+- Both the Baltimore City and the Washington, DC datasets contained datapoints that were neighboring towns and not within the city themselves. To clean this data to only include data containing Baltimore city code df_baltimorecitydata = df_baltimorecitydata[df_baltimorecitydata["Name"].str.contains("Baltimore")]. This process was then repeated for all Washington, DC data using contains("Washington, DC").
+- In order to make the datasets easier to understand visually, it is essential to change the names of the columns within each dataset.  For example, to change the average incomeBaltimore dataset the code df_AvgIncomeBaltimore = df_AvgIncomeBaltimore.rename(columns={"Household_Income_rP_gP_pall":"Baltimore Median Income"}) was used.
+
 
