@@ -30,3 +30,6 @@ Three different data sources were analyzed within tract ID numbers for each Balt
 [Baltimore](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/income%20stay%20Baltimore.csv)
 
 [DC](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/income%20stay%20DC.csv)
+
+## Initial Data Cleaning Using Python
+
