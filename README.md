@@ -16,4 +16,14 @@ How
 ## Data Source
 [Opportunity Atlas](https://www.opportunityatlas.org/): A free interactive tool that contains publicly available information on different social metrics.
 
+Three different data sources were analyzed within tract ID numbers for each Baltimore City and Washignton DC: median household income, percentage of adults who stayed in same tract, and median income among adults who stayed in same tract.
 
+#### Household Income
+[Baltimore](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/Household%20Income%20Baltimore.csv)
+[DC](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/Household%20Income%20DC.csv)
+#### Percentage of adults who stayed in same tract
+[Baltimore]((https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/%25%20Same%20Tract%20Baltimore.csv)
+[DC](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/%25%20Same%20Tract%20Baltimore.csv)
+#### Median income among adults who stayed in same tract
+[Baltimore](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/income%20stay%20Baltimore.csv)
+[DC](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/income%20stay%20DC.csv)
